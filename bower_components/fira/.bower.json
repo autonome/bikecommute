@@ -1,0 +1,16 @@
+{
+  "name": "fira",
+  "version": "0.1.0",
+  "main": "fira.css",
+  "homepage": "https://github.com/jjt/Fira",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.0",
+    "commit": "6ba65a90ca22cae4a039960a3d53dba7a0080fb1"
+  },
+  "_source": "git://github.com/jjt/Fira.git",
+  "_target": "~0.1.0",
+  "_originalSource": "fira",
+  "_direct": true
+}
